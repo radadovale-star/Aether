@@ -1,2 +1,0 @@
-Nome/  Idade/  Altura/  peso/
- rada      20      1.7     20
