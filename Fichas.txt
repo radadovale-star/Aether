@@ -9,3 +9,6 @@ Nome/  Idade/  Altura/  Peso/ Classe/
 
 Nome/  Idade/  Altura/  Peso/ Classe/
  ycro      20      1.7   20.0      oi
+
+Nome/  Idade/  Altura/  Peso/ Classe/
+   oi       2      2.0    2.0      ss
