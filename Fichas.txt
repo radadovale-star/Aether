@@ -1,0 +1,2 @@
+Nome/  Idade/  Altura/  Peso/ Classe/
+ Rada      20      1.7   70.0    Lobo
