@@ -1,2 +1,2 @@
 Nome/  Idade/  Altura/  peso/
- Rada      20      1.7     80
+JUNIN      20     20.0     20
