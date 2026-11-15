@@ -8,4 +8,4 @@ Nome/  Idade/  Altura/  Peso/ Classe/
   Beu      20      1.9  202.0    rada
 
 Nome/  Idade/  Altura/  Peso/ Classe/
- ycro      20     10.0   10.0       1
+ ycro      20      1.7   20.0      oi
