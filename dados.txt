@@ -1,2 +1,2 @@
 Nome/  Idade/  Altura/  peso/
-JUNIN      20     20.0     20
+JUNIN      20     20.0     20rada	20	1.7	20.0	
