@@ -3,3 +3,6 @@ Nome/  Idade/  Altura/  Peso/ Classe/
 
 Nome/  Idade/  Altura/  Peso/ Classe/
 Junin      20      1.8   80.0    Mago
+
+Nome/  Idade/  Altura/  Peso/ Classe/
+ Rada      20      1.7   20.0    lobo
