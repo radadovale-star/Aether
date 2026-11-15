@@ -1,6 +1,0 @@
-Nome/  Idade/  Altura/  peso/
-JUNIN      20     20.0     20rada	20	1.7	20.0	
-
-
-Nome/  Idade/  Altura/  Peso/ Classe/
- Rada      20      1.7   20.0 padeiro
